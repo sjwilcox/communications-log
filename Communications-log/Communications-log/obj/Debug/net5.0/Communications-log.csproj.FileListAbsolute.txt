@@ -1,0 +1,16 @@
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.exe
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.deps.json
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.runtimeconfig.json
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.runtimeconfig.dev.json
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.dll
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\ref\Communications-log.dll
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\bin\Debug\net5.0\Communications-log.pdb
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.csproj.AssemblyReference.cache
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.AssemblyInfoInputs.cache
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.AssemblyInfo.cs
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.csproj.CoreCompileInputs.cache
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.dll
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\ref\Communications-log.dll
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.pdb
+D:\VS Projects\Git-Exercises\communication-log\Communications-log\Communications-log\obj\Debug\net5.0\Communications-log.genruntimeconfig.cache
